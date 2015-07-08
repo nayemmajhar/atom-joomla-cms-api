@@ -1,0 +1,8 @@
+'scopeName':'text.html.php'
+'name':'Joomla'
+'fileTypes':'joomla'
+'patterns': [
+  {
+    'include': 'text.html.basic'
+  }
+]

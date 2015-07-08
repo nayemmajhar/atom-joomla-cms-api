@@ -1,0 +1,18 @@
+{
+  "name": "joomla",
+  "main": "./lib/joomla",
+  "version": "1.0.0",
+  "description": "Joomla CMS api snippets and auto-complete",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "joomla:toggle"
+  },
+  "repository": "https://github.com/atom/joomla",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

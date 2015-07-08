@@ -1,0 +1,8 @@
+'.source.php':
+  'editor':
+    'commentStart': '//'
+    'completions':[
+      'getApplication'
+      'getDocument'
+      'getConfig'
+    ]
